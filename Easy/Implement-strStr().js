@@ -13,5 +13,5 @@ var strStr = function (haystack, needle) {
       }
     }
   }
-  return -1;
+  return -1;                                     // return -1 if there wasn't a match
 };
